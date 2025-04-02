@@ -1,2 +1,6 @@
 # AIRegulate
-AI-Powered Policy Analysis Agent for analyzing and tracking AI-related policies and their impact on job markets.
+AIRegulate analyzes AI policy documents using a RAG pipeline with LangChain, Pinecone, and Mistral-7B. It retrieves insights from web sources and PDFs for accurate responses.
+
+Usage: Add documents, ask questions, get AI-powered insights.
+
+## HF link: https://huggingface.co/spaces/maimunaz/AIRegulate
