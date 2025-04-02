@@ -1,0 +1,10 @@
+streamlit
+langchain
+langchain-community
+langchain-pinecone
+langchain-huggingface
+pinecone-client
+transformers
+torch
+sentence-transformers
+llama-cpp-python
